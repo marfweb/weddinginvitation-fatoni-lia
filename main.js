@@ -105,7 +105,7 @@
   }
 
   /* ------------------------------------------------------------------
-     3b. "The Wedding Of Fatoni & Lia ... Save The Date" text reveal —
+     3b. "Ngunduh Mantu Fatoni & Lia ... Save The Date" text reveal —
          plays once, right after the cover closes (not scroll-based,
          since this panel is already on screen the instant the
          invitation opens).
